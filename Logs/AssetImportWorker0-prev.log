@@ -1,0 +1,351 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.16f1 (049d6eca3c44) revision 302446'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1348; Version 2009; 64bit' Language: 'pt' Physical Memory: 16295 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Gabriel/Desktop/Jogos/Game Oficial/Game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64240
+Successfully changed project path to: C:/Users/Gabriel/Desktop/Jogos/Game Oficial/Game
+C:/Users/Gabriel/Desktop/Jogos/Game Oficial/Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 34.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.16f1 (049d6eca3c44)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Gabriel/Desktop/Jogos/Game Oficial/Game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56388
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002576 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 33.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.086 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1086ms)
+		BeginReloadAssembly (49ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (367ms)
+			LoadAssemblies (47ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (134ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (147ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (34ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (73ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004153 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.992 seconds
+Domain Reload Profiling:
+	ReloadAssembly (992ms)
+		BeginReloadAssembly (128ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (806ms)
+			LoadAssemblies (80ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (250ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (353ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (83ms)
+				ProcessInitializeOnLoadAttributes (253ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1705 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.0 MB.
+System memory in use after: 81.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2139.
+Total: 2.587500 ms (FindLiveObjects: 0.151300 ms CreateObjectMapping: 0.047900 ms MarkObjects: 2.327100 ms  DeleteObjects: 0.060100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/AnimacaoPersonagem.cs
+  artifactKey: Guid(688f51239016ead4bb89383e36bd39ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AnimacaoPersonagem.cs using Guid(688f51239016ead4bb89383e36bd39ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a984b21dea4f070511191d2fe44f2e') in 0.047392 seconds 
+  Import took 0.049744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 160.764367 seconds.
+  path: Assets/Prefabs/Veiculos/Ambulancia.prefab
+  artifactKey: Guid(3e2d42a47e37849409a91a61749445b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/Ambulancia.prefab using Guid(3e2d42a47e37849409a91a61749445b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45ddb9ce8742cebc1b7aba835a1f9721') in 0.097173 seconds 
+  Import took 0.100503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Prefabs/Veiculos/CarroClassico.prefab
+  artifactKey: Guid(d7294dba362ab4aadbb0a1f8f30453cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/CarroClassico.prefab using Guid(d7294dba362ab4aadbb0a1f8f30453cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9488cac1af2f3dfc25e2b4c40e6f3540') in 0.025316 seconds 
+  Import took 0.027862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Prefabs/Veiculos/Caminhonete_Quebrada_03.prefab
+  artifactKey: Guid(a256988d6d77c413c93f6bf1ec2055a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/Caminhonete_Quebrada_03.prefab using Guid(a256988d6d77c413c93f6bf1ec2055a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e769836fbbe6a373aa14bbd60fcffd67') in 0.021961 seconds 
+  Import took 0.024549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Prefabs/Veiculos/Carro_Policial.prefab
+  artifactKey: Guid(e8e5a55bd37bb41e798bf87dcdad19b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/Carro_Policial.prefab using Guid(e8e5a55bd37bb41e798bf87dcdad19b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86f42f0f476d7aefd4a051f208c9cd8e') in 0.031978 seconds 
+  Import took 0.034369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Prefabs/Veiculos/Caminhonete_Quebrada_02.prefab
+  artifactKey: Guid(644a7401fc9b34adebbb8e9c9bca3105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/Caminhonete_Quebrada_02.prefab using Guid(644a7401fc9b34adebbb8e9c9bca3105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72812a8eb04ef52b2b74200ec244a19a') in 0.021406 seconds 
+  Import took 0.023839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Prefabs/Veiculos/Van_Batida_02.prefab
+  artifactKey: Guid(2cc9fbb4bdd574f1cadec92083acb88b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/Van_Batida_02.prefab using Guid(2cc9fbb4bdd574f1cadec92083acb88b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29481cd077539896700ade0c40c88838') in 0.021973 seconds 
+  Import took 0.024500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Prefabs/Veiculos/Tanque.prefab
+  artifactKey: Guid(c2fe2407b32a8419fa5c22d1e5e37871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/Tanque.prefab using Guid(c2fe2407b32a8419fa5c22d1e5e37871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '040bebafc69502dc187f0588f4f4406c') in 0.027871 seconds 
+  Import took 0.030645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Prefabs/Veiculos/Carro_Capotado_03.prefab
+  artifactKey: Guid(a9398d190b8e94f2f9e38d8b1fe42278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/Carro_Capotado_03.prefab using Guid(a9398d190b8e94f2f9e38d8b1fe42278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96f4b55acf6966d31ee38f5228a8ec1b') in 0.020581 seconds 
+  Import took 0.023039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Prefabs/Veiculos/Ambulancia_Quebrada.prefab
+  artifactKey: Guid(967c32f5e6c1149c785f5d082d0ab7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/Ambulancia_Quebrada.prefab using Guid(967c32f5e6c1149c785f5d082d0ab7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2daa3787499d2d7d9f09898bcfe46c3c') in 0.020386 seconds 
+  Import took 0.022918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Prefabs/Veiculos/Van_Batida_01.prefab
+  artifactKey: Guid(37857ccc62dcd40a088e0d9273841e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/Van_Batida_01.prefab using Guid(37857ccc62dcd40a088e0d9273841e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '788b01b5a20204d672b286de39bf31cd') in 0.022293 seconds 
+  Import took 0.024715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Prefabs/Veiculos/Helicoptero_Destruido.prefab
+  artifactKey: Guid(d3b3574e65a104da6b8e3e8cc2517e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/Helicoptero_Destruido.prefab using Guid(d3b3574e65a104da6b8e3e8cc2517e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f862473ae84b1b7b31c26a70bb97da') in 0.021948 seconds 
+  Import took 0.024591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Prefabs/Veiculos/Trator.prefab
+  artifactKey: Guid(c9b21efd088484bb9ac61107c03bcef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/Trator.prefab using Guid(c9b21efd088484bb9ac61107c03bcef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed363d66b11ac61ca76eb33148116f50') in 0.020769 seconds 
+  Import took 0.023251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Prefabs/Veiculos/Carro_Capotado_01.prefab
+  artifactKey: Guid(c43228607ad9e40e4b51b49570ad1466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/Carro_Capotado_01.prefab using Guid(c43228607ad9e40e4b51b49570ad1466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62b3502c76e0b12a5e6b59ed0e8fccec') in 0.015444 seconds 
+  Import took 0.017862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Prefabs/Veiculos/CaminhaoDeLixo.prefab
+  artifactKey: Guid(7647ea840cb314376b0ea8d89d483e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/CaminhaoDeLixo.prefab using Guid(7647ea840cb314376b0ea8d89d483e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ac9c18481d7777cbe7cbe87118997a9') in 0.023903 seconds 
+  Import took 0.026435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Prefabs/Veiculos/Carro_Capotado_02.prefab
+  artifactKey: Guid(e7f6f65d681c040ae87ec9b4447c6ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/Carro_Capotado_02.prefab using Guid(e7f6f65d681c040ae87ec9b4447c6ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1237d41e39618f0467918928a416cab0') in 0.021057 seconds 
+  Import took 0.023374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Prefabs/Veiculos/TanqueDeGuerra_Destruido.prefab
+  artifactKey: Guid(ee7f91516af52453f98f491cf554a1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/TanqueDeGuerra_Destruido.prefab using Guid(ee7f91516af52453f98f491cf554a1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d88d8fe86fc7d4204a6b29ea24ecead') in 0.019875 seconds 
+  Import took 0.022623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Prefabs/Veiculos/Carro_Bombeiro.prefab
+  artifactKey: Guid(9057a921d6d1a49839ea2068c4edae0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/Carro_Bombeiro.prefab using Guid(9057a921d6d1a49839ea2068c4edae0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4b74d5a7df4610e1d84a5d742b6db3b') in 0.020560 seconds 
+  Import took 0.023145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Prefabs/Veiculos/MonsterTruck.prefab
+  artifactKey: Guid(cbffb290379be40a38b68d2696af1c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/MonsterTruck.prefab using Guid(cbffb290379be40a38b68d2696af1c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '466b9e788d7baf5625327b65e7ad3a08') in 0.024972 seconds 
+  Import took 0.027627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Prefabs/Veiculos/Caminhonete_Quebrada_01.prefab
+  artifactKey: Guid(e02fae233aab240dfb69c6c170b19bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Veiculos/Caminhonete_Quebrada_01.prefab using Guid(e02fae233aab240dfb69c6c170b19bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94ebd614f3a441960cfc7810044d240b') in 0.019754 seconds 
+  Import took 0.022231 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003837 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.927 seconds
+Domain Reload Profiling:
+	ReloadAssembly (927ms)
+		BeginReloadAssembly (105ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (764ms)
+			LoadAssemblies (77ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (241ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (324ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (75ms)
+				ProcessInitializeOnLoadAttributes (232ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1698 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.9 MB.
+System memory in use after: 84.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2148.
+Total: 2.363700 ms (FindLiveObjects: 0.150800 ms CreateObjectMapping: 0.056300 ms MarkObjects: 2.138400 ms  DeleteObjects: 0.017300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
